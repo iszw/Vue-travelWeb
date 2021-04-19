@@ -1,4 +1,4 @@
-# Vue_travelWeb
+# Vue-travelWeb
 
 > A Vue.js project
 
